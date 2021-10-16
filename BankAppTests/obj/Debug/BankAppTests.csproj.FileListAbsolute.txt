@@ -1,0 +1,16 @@
+C:\Users\ademaree\Desktop\AutoVin\BankApp\BankAppTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\ademaree\Desktop\AutoVin\BankApp\BankAppTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\ademaree\Desktop\AutoVin\BankApp\BankAppTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\ademaree\Desktop\AutoVin\BankApp\BankAppTests\bin\Debug\BankAppTests.dll
+C:\Users\ademaree\Desktop\AutoVin\BankApp\BankAppTests\bin\Debug\BankAppTests.pdb
+C:\Users\ademaree\Desktop\AutoVin\BankApp\BankAppTests\bin\Debug\BankingApp.dll
+C:\Users\ademaree\Desktop\AutoVin\BankApp\BankAppTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\ademaree\Desktop\AutoVin\BankApp\BankAppTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\ademaree\Desktop\AutoVin\BankApp\BankAppTests\bin\Debug\BankingApp.pdb
+C:\Users\ademaree\Desktop\AutoVin\BankApp\BankAppTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\ademaree\Desktop\AutoVin\BankApp\BankAppTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\ademaree\Desktop\AutoVin\BankApp\BankAppTests\obj\Debug\BankAppTests.csproj.AssemblyReference.cache
+C:\Users\ademaree\Desktop\AutoVin\BankApp\BankAppTests\obj\Debug\BankAppTests.csproj.CoreCompileInputs.cache
+C:\Users\ademaree\Desktop\AutoVin\BankApp\BankAppTests\obj\Debug\BankAppTests.dll
+C:\Users\ademaree\Desktop\AutoVin\BankApp\BankAppTests\obj\Debug\BankAppTests.pdb
+C:\Users\ademaree\Desktop\AutoVin\BankApp\BankAppTests\obj\Debug\BankAppTests.csproj.CopyComplete

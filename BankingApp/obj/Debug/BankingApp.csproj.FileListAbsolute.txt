@@ -1,0 +1,6 @@
+C:\Users\ademaree\Desktop\AutoVin\BankApp\BankingApp\bin\Debug\BankingApp.dll
+C:\Users\ademaree\Desktop\AutoVin\BankApp\BankingApp\bin\Debug\BankingApp.pdb
+C:\Users\ademaree\Desktop\AutoVin\BankApp\BankingApp\obj\Debug\BankingApp.csproj.AssemblyReference.cache
+C:\Users\ademaree\Desktop\AutoVin\BankApp\BankingApp\obj\Debug\BankingApp.csproj.CoreCompileInputs.cache
+C:\Users\ademaree\Desktop\AutoVin\BankApp\BankingApp\obj\Debug\BankingApp.dll
+C:\Users\ademaree\Desktop\AutoVin\BankApp\BankingApp\obj\Debug\BankingApp.pdb
